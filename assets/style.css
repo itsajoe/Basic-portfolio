@@ -135,3 +135,32 @@ p {
 
 
 }
+
+.box {
+	
+	width: 250px;
+	margin:30px;
+	text-align: center;
+	overflow: auto;
+	position: relative;
+	float: left;
+
+
+
+}
+.not {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	position:absolute;
+	width: 88%;
+	padding: 15px;
+	bottom: 20px;
+	float: left;
+	left: 10px;
+}
+
+.mine {
+	height: 300px;
+	width: 100%;
+	float: left;
+}
